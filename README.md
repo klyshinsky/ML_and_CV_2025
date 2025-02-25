@@ -15,6 +15,8 @@
 
 [Лекция 2025.02.04](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250204_image_processing.ipynb) - Обрабока изображений.
 
-[Лекция 2025.02.11](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250211_clustering.ipynb) - Кластеризацияю
+[Лекция 2025.02.11](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250211_clustering.ipynb) - Кластеризация.
 
 [Лекция 2025.02.18](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250218_OpenCV.ipynb) - Обработка видео при помощи OpenCV.
+
+[Лекция 2025.02.25](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250225_Classification.ipynb) - методы классификации (к ближайших соседей, регрессия).  
