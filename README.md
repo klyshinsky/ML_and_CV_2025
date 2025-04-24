@@ -28,4 +28,6 @@
 [Лекция 2025.03.18](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250318_1_regexp.ipynb) - регулярные выражения  
 [Лекция 2025.03.18](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250319_2_requests.ipynb) - получение данных по https при помощи requests
 
-[Лекция 2025.03.18](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250407_text_processing.ipynb) - Обработка текстов.
+[Лекция 2025.04.15](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250407_text_processing.ipynb) - Обработка текстов.
+
+[Лекция 2025.04.22](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250422_W2V_Bert.ipynb) - Тематическое моделирование. Векоризация текстов с использованием Word2Vec.
