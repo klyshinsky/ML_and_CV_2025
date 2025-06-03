@@ -8,7 +8,7 @@
 
 [Файл](https://docs.google.com/spreadsheets/d/1zU3V82i7TL2-tSn2ysfPcIcsimtboxAPig6SIaun1fM/edit?usp=sharing) с результатами сдачи лабораторных работ (в процессе разработки).
 
-### Тетрадки к лекциям и записи лекций
+### Тетрадки к лекциям
 
 [Лекция 2025.01.14](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250114_numpy.ipynb) - Numpy  
 [Лекция 2025.01.14](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250114_Pandas.ipynb) - Pandas
@@ -31,3 +31,7 @@
 [Лекция 2025.04.15](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250407_text_processing.ipynb) - Обработка текстов.
 
 [Лекция 2025.04.22](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250422_W2V_Bert.ipynb) - Тематическое моделирование. Векоризация текстов с использованием Word2Vec.
+
+[Лекция 2025.05.20](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250520_MLP.ipynb) - многослойный персептрон.
+
+[Лекция 2025.06.03](https://github.com/klyshinsky/ML_and_CV_2025/blob/main/Lecture_20250603_CNN_RNN.ipynb) - сверточные и рекурренные нейронные сети.
